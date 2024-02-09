@@ -39,7 +39,6 @@ return bal;
 //}
 
 public String toString(){
-
 return "Hello="+username+"! Your balance is :"+balance;
 }
 

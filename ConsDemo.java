@@ -43,7 +43,7 @@ System.out.println("name of age="+age1+"\n");
 
 public static void main(String[] args){
 
-  ConsDemo obj1= new      ConsDemo("user1",30 ,"indore");
+  ConsDemo obj1= new  ConsDemo("user1",30 ,"indore");
 
   ConsDemo obj2= new ConsDemo("user1",30);
 

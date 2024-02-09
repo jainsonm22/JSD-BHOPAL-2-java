@@ -7,6 +7,7 @@ public SavingsAccount(int initialBalance){
 balance=initialBalance;
 }
 
+x
 public static void main(String[] args){
   
    SavingsAccount sa=new SavingsAccount(2000);
