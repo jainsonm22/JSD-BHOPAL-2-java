@@ -1,7 +1,7 @@
 public class IfElseDemo{
 
 int ammount;
-int totalPeople=2;
+int totalPeople=7;
 
 public IfElseDemo(int ammount){
 
